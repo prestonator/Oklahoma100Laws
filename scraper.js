@@ -1,48 +1,36 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 const path = require("path");
+// No new imports needed, 'fetch' is built-in in modern Node.js (v18+)
 
 // --- CONFIGURATION ---
-// The list of URLs you want to scrape.
 const URLS_TO_SCRAPE = [
-  "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1075&Session=2500",
+  "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB1075",
+  // Add more URLs here...
 ];
 
-const DOWNLOAD_DIR = path.join(__dirname, "downloads"); // Folder to save PDFs
+const DOWNLOAD_DIR = path.join(__dirname, "downloads");
 
 // --- MAIN SCRAPER LOGIC ---
 
-/**
- * The main function that orchestrates the scraping process.
- */
 async function runScraper() {
   console.log("Starting the scraper...");
-
-  // Ensure the download directory exists
   await fs.mkdir(DOWNLOAD_DIR, { recursive: true });
 
-  // Launch a headless browser instance
-  const browser = await puppeteer.launch({
-    headless: true, // Use the new headless mode
-  });
-
+  const browser = await puppeteer.launch({ headless: false });
   console.log(`Scraping ${URLS_TO_SCRAPE.length} URL(s)...`);
 
-  // Process each URL in the list
   for (const url of URLS_TO_SCRAPE) {
-    // Create a new page for each URL to ensure a clean state
     const page = await browser.newPage();
     try {
       await scrapeAndDownload(page, url);
     } catch (error) {
       console.error(`❌ Failed to process ${url}:`, error.message);
     } finally {
-      // Close the page to free up resources
       await page.close();
     }
   }
 
-  // Close the browser once all URLs have been processed
   await browser.close();
   console.log("\n✅ Scraper finished.");
 }
@@ -55,24 +43,19 @@ async function runScraper() {
 async function scrapeAndDownload(page, url) {
   console.log(`\nNavigating to: ${url}`);
 
-  // Extract the Bill name from the URL for the filename
   const billName = new URL(url).searchParams.get("Bill");
   if (!billName) {
     console.error(`   Could not determine bill name from URL. Skipping.`);
     return;
   }
 
-  // Navigate to the page and wait for it to be fully loaded
-  await page.goto(url, { waitUntil: "networkidle2" });
+  await page.goto(url);
 
-  // 1. Find the index of the "Versions" tab
+  // 1. Find the index of the "Versions" tab (No changes here)
   const versionsTabIndex = await page.evaluate(() => {
-    // Select all the tab header elements
     const tabHeaders = Array.from(
       document.querySelectorAll(".ajax__tab_header span.ajax__tab_tab")
     );
-		console.log(tabHeaders)
-    // Find the index of the tab with the text "Versions"
     return tabHeaders.findIndex(
       (span) => span.textContent.trim() === "Versions"
     );
@@ -86,25 +69,17 @@ async function scrapeAndDownload(page, url) {
   }
   console.log(`   Found 'Versions' tab at index: ${versionsTabIndex}`);
 
-  // 2. Find the PDF link within the corresponding tab body
-  // The tab body panels are direct children of .ajax__tab_body
-  // We use the found index to select the correct panel.
+  // 2. Find the PDF link within the corresponding tab body (No changes here)
   const pdfUrl = await page.evaluate((index) => {
-    // CSS :nth-child is 1-based, so we add 1 to our 0-based index
     const panelSelector = `.ajax__tab_body > div:nth-child(${index + 1})`;
     const versionPanel = document.querySelector(panelSelector);
-
     if (!versionPanel) return null;
-
-    // Find the anchor tag with the specific text
     const allLinks = Array.from(versionPanel.querySelectorAll("a"));
     const targetLink = allLinks.find(
       (a) => a.textContent.trim() === "Enrolled (final version)"
     );
-
-    // Return the href if the link is found
     return targetLink ? targetLink.href : null;
-  }, versionsTabIndex); // Pass the index to the browser context
+  }, versionsTabIndex);
 
   if (!pdfUrl) {
     console.log(
@@ -114,11 +89,24 @@ async function scrapeAndDownload(page, url) {
   }
   console.log(`   Found PDF link: ${pdfUrl}`);
 
-  // 3. Download the PDF
-  // We can't just fetch the PDF directly. It's better to use the browser's context
-  // to handle any cookies or session data that might be required.
-  const pdfResponse = await page.goto(pdfUrl, { waitUntil: "networkidle2" });
-  const pdfBuffer = await pdfResponse.buffer();
+  // --- MODIFIED SECTION ---
+  // 3. Download the PDF directly using fetch
+  // This is more reliable for direct file downloads than using page.goto().
+  console.log(`   Fetching PDF directly...`);
+
+  const response = await fetch(pdfUrl);
+
+  // Check if the request was successful
+  if (!response.ok) {
+    throw new Error(
+      `Failed to download PDF. Status: ${response.status} ${response.statusText}`
+    );
+  }
+
+  // Get the PDF data as an ArrayBuffer
+  const pdfArrayBuffer = await response.arrayBuffer();
+  // Convert it to a Node.js Buffer, which is needed for fs.writeFile
+  const pdfBuffer = Buffer.from(pdfArrayBuffer);
 
   // 4. Save the PDF to a file
   const filePath = path.join(DOWNLOAD_DIR, `${billName}.pdf`);
