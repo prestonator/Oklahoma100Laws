@@ -16,7 +16,7 @@ async function runScraper() {
   logger.info("Starting the scraper...");
   await fs.mkdir(DOWNLOAD_DIR, { recursive: true });
 
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   logger.info(
     `Scraping ${URLS_TO_SCRAPE.length} unique URL(s) in batches of ${BATCH_SIZE}...`
   );

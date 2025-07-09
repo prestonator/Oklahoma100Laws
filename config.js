@@ -104,8 +104,8 @@ const URLS_TO_SCRAPE = [
 ];
 
 const DOWNLOAD_DIR = path.join(__dirname, "downloads");
-const RETRY_COUNT = 3;
-const RETRY_DELAY_MS = 1000; // 1 second
+const RETRY_COUNT = 4;
+const RETRY_DELAY_MS = 2000; // 2 seconds
 const BATCH_SIZE = 5; // Process 5 URLs at a time
 
 module.exports = {

@@ -1,0 +1,612 @@
+2025-07-09T20:05:45.431Z [INFO]: Found 'Versions' tab for HB1096 at index: 3
+2025-07-09T20:05:45.432Z [INFO]: Found PDF link for HB1096: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1096%20ENR.PDF
+2025-07-09T20:05:45.844Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1096.pdf
+2025-07-09T20:05:45.854Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1096
+2025-07-09T20:05:49.936Z [INFO]: Found 'Versions' tab for HB1086 at index: 3
+2025-07-09T20:05:49.946Z [INFO]: Found PDF link for HB1086: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1086%20ENR.PDF
+2025-07-09T20:05:50.353Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1086.pdf
+2025-07-09T20:05:50.362Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1086
+2025-07-09T20:05:54.168Z [INFO]: Found 'Versions' tab for HB1087 at index: 3
+2025-07-09T20:05:54.170Z [INFO]: Found PDF link for HB1087: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1087%20ENR.PDF
+2025-07-09T20:05:54.227Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1087.pdf
+2025-07-09T20:05:54.236Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1087
+2025-07-09T20:05:54.236Z [INFO]: --- Processing batch 2 ---
+2025-07-09T20:05:58.184Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1282
+2025-07-09T20:06:03.400Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1278
+2025-07-09T20:06:07.758Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1287
+2025-07-09T20:06:08.263Z [INFO]: Found 'Versions' tab for HB1278 at index: 3
+2025-07-09T20:06:08.275Z [INFO]: Found PDF link for HB1278: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1278%20ENR.PDF
+2025-07-09T20:06:09.043Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1278.pdf
+2025-07-09T20:06:09.049Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1278
+2025-07-09T20:06:11.252Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1372
+2025-07-09T20:06:12.676Z [INFO]: Found 'Versions' tab for HB1287 at index: 3
+2025-07-09T20:06:12.685Z [INFO]: Found PDF link for HB1287: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1287%20ENR.PDF
+2025-07-09T20:06:12.747Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1287.pdf
+2025-07-09T20:06:12.752Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1287
+2025-07-09T20:06:15.136Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1360
+2025-07-09T20:06:16.318Z [INFO]: Found 'Versions' tab for HB1372 at index: 3
+2025-07-09T20:06:16.319Z [INFO]: Found PDF link for HB1372: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1372%20ENR.PDF
+2025-07-09T20:06:16.416Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1372.pdf
+2025-07-09T20:06:16.427Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1372
+2025-07-09T20:06:18.991Z [INFO]: Found 'Versions' tab for HB1282 at index: 3
+2025-07-09T20:06:18.994Z [INFO]: Found PDF link for HB1282: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1282%20ENR.PDF
+2025-07-09T20:06:19.058Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1282.pdf
+2025-07-09T20:06:19.062Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1282
+2025-07-09T20:06:20.390Z [INFO]: Found 'Versions' tab for HB1360 at index: 3
+2025-07-09T20:06:20.391Z [INFO]: Found PDF link for HB1360: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1360%20ENR.PDF
+2025-07-09T20:06:20.451Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1360.pdf
+2025-07-09T20:06:20.461Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1360
+2025-07-09T20:06:20.461Z [INFO]: --- Processing batch 3 ---
+2025-07-09T20:06:24.497Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1393
+2025-07-09T20:06:29.094Z [INFO]: Found 'Versions' tab for HB1393 at index: 3
+2025-07-09T20:06:29.096Z [INFO]: Found PDF link for HB1393: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1393%20ENR.PDF
+2025-07-09T20:06:29.441Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1393.pdf
+2025-07-09T20:06:29.446Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1393
+2025-07-09T20:06:33.253Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1466
+2025-07-09T20:06:36.982Z [INFO]: Found 'Versions' tab for HB1466 at index: 3
+2025-07-09T20:06:36.983Z [INFO]: Found PDF link for HB1466: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1466%20ENR.PDF
+2025-07-09T20:06:37.334Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1466.pdf
+2025-07-09T20:06:37.345Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1466
+2025-07-09T20:06:41.966Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1376
+2025-07-09T20:06:45.420Z [INFO]: Found 'Versions' tab for HB1376 at index: 3
+2025-07-09T20:06:45.421Z [INFO]: Found PDF link for HB1376: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1376%20ENR.PDF
+2025-07-09T20:06:45.773Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1376.pdf
+2025-07-09T20:06:45.778Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1376
+2025-07-09T20:06:49.398Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1465
+2025-07-09T20:06:50.570Z [ERROR]: ❌ Attempt 1 failed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1412: Navigation timeout of 30000 ms exceeded
+2025-07-09T20:06:50.570Z [INFO]:    Retrying in 2s...
+2025-07-09T20:06:52.590Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1412
+2025-07-09T20:06:52.830Z [INFO]: Found 'Versions' tab for HB1465 at index: 3
+2025-07-09T20:06:52.831Z [INFO]: Found PDF link for HB1465: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1465%20ENR.PDF
+2025-07-09T20:06:53.179Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1465.pdf
+2025-07-09T20:06:53.185Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1465
+2025-07-09T20:06:58.289Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1412
+2025-07-09T20:07:06.232Z [INFO]: Found 'Versions' tab for HB1412 at index: 3
+2025-07-09T20:07:06.233Z [INFO]: Found PDF link for HB1412: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1412%20ENR.PDF
+2025-07-09T20:07:06.597Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1412.pdf
+2025-07-09T20:07:06.608Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1412
+2025-07-09T20:07:06.609Z [INFO]: --- Processing batch 4 ---
+2025-07-09T20:07:11.216Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1576
+2025-07-09T20:07:14.705Z [INFO]: Found 'Versions' tab for HB1576 at index: 3
+2025-07-09T20:07:14.706Z [INFO]: Found PDF link for HB1576: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1576%20ENR.PDF
+2025-07-09T20:07:15.051Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1576.pdf
+2025-07-09T20:07:15.060Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1576
+2025-07-09T20:07:19.058Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1485
+2025-07-09T20:07:22.571Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1483
+2025-07-09T20:07:26.513Z [INFO]: Found 'Versions' tab for HB1483 at index: 3
+2025-07-09T20:07:26.516Z [INFO]: Found PDF link for HB1483: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1483%20ENR.PDF
+2025-07-09T20:07:26.837Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1483.pdf
+2025-07-09T20:07:26.841Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1483
+2025-07-09T20:07:29.622Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1512
+2025-07-09T20:07:32.868Z [INFO]: Found 'Versions' tab for HB1512 at index: 3
+2025-07-09T20:07:32.875Z [INFO]: Found PDF link for HB1512: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1512%20ENR.PDF
+2025-07-09T20:07:33.234Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1512.pdf
+2025-07-09T20:07:33.242Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1512
+2025-07-09T20:07:36.704Z [ERROR]: ❌ Attempt 1 failed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1521: Navigation timeout of 30000 ms exceeded
+2025-07-09T20:07:36.706Z [INFO]:    Retrying in 2s...
+2025-07-09T20:07:38.726Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1521
+2025-07-09T20:07:42.601Z [INFO]: Found 'Versions' tab for HB1485 at index: 3
+2025-07-09T20:07:42.603Z [INFO]: Found PDF link for HB1485: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1485%20ENR.PDF
+2025-07-09T20:07:43.057Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1485.pdf
+2025-07-09T20:07:43.063Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1485
+2025-07-09T20:07:46.314Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1521
+2025-07-09T20:07:49.944Z [INFO]: Found 'Versions' tab for HB1521 at index: 3
+2025-07-09T20:07:49.945Z [INFO]: Found PDF link for HB1521: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1521%20ENR.PDF
+2025-07-09T20:07:50.365Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1521.pdf
+2025-07-09T20:07:50.376Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1521
+2025-07-09T20:07:50.376Z [INFO]: --- Processing batch 5 ---
+2025-07-09T20:07:53.461Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1865
+2025-07-09T20:07:56.760Z [INFO]: Found 'Versions' tab for HB1865 at index: 3
+2025-07-09T20:07:56.761Z [INFO]: Found PDF link for HB1865: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1865%20ENR.PDF
+2025-07-09T20:07:57.118Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1865.pdf
+2025-07-09T20:07:57.129Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1865
+2025-07-09T20:08:00.541Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1688
+2025-07-09T20:08:05.175Z [INFO]: Found 'Versions' tab for HB1688 at index: 3
+2025-07-09T20:08:05.178Z [INFO]: Found PDF link for HB1688: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1688%20ENR.PDF
+2025-07-09T20:08:05.660Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1688.pdf
+2025-07-09T20:08:05.666Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1688
+2025-07-09T20:08:08.809Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1727
+2025-07-09T20:08:12.410Z [INFO]: Found 'Versions' tab for HB1727 at index: 3
+2025-07-09T20:08:12.411Z [INFO]: Found PDF link for HB1727: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1727%20ENR.PDF
+2025-07-09T20:08:12.773Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1727.pdf
+2025-07-09T20:08:12.781Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1727
+2025-07-09T20:08:17.809Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1732
+2025-07-09T20:08:20.481Z [ERROR]: ❌ Attempt 1 failed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1751: Navigation timeout of 30000 ms exceeded
+2025-07-09T20:08:20.482Z [INFO]:    Retrying in 2s...
+2025-07-09T20:08:22.495Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1751
+2025-07-09T20:08:25.128Z [INFO]: Found 'Versions' tab for HB1732 at index: 3
+2025-07-09T20:08:25.137Z [INFO]: Found PDF link for HB1732: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1732%20ENR.PDF
+2025-07-09T20:08:25.514Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1732.pdf
+2025-07-09T20:08:25.521Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1732
+2025-07-09T20:08:28.259Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1751
+2025-07-09T20:08:31.511Z [INFO]: Found 'Versions' tab for HB1751 at index: 3
+2025-07-09T20:08:31.511Z [INFO]: Found PDF link for HB1751: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1751%20ENR.PDF
+2025-07-09T20:08:32.031Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1751.pdf
+2025-07-09T20:08:32.043Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1751
+2025-07-09T20:08:32.043Z [INFO]: --- Processing batch 6 ---
+2025-07-09T20:08:37.251Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2257
+2025-07-09T20:08:41.047Z [INFO]: Found 'Versions' tab for HB2257 at index: 3
+2025-07-09T20:08:41.048Z [INFO]: Found PDF link for HB2257: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2257%20ENR.PDF
+2025-07-09T20:08:41.366Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2257.pdf
+2025-07-09T20:08:41.378Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2257
+2025-07-09T20:08:45.528Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1940
+2025-07-09T20:08:49.563Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2082
+2025-07-09T20:08:54.066Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2207
+2025-07-09T20:08:58.562Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2158
+2025-07-09T20:09:00.826Z [INFO]: Found 'Versions' tab for HB2158 at index: 3
+2025-07-09T20:09:00.828Z [INFO]: Found PDF link for HB2158: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2158%20ENR.PDF
+2025-07-09T20:09:01.222Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2158.pdf
+2025-07-09T20:09:01.227Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2158
+2025-07-09T20:09:02.693Z [INFO]: Found 'Versions' tab for HB1940 at index: 3
+2025-07-09T20:09:02.696Z [INFO]: Found PDF link for HB1940: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1940%20ENR.PDF
+2025-07-09T20:09:02.754Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB1940.pdf
+2025-07-09T20:09:02.759Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB1940
+2025-07-09T20:09:04.500Z [INFO]: Found 'Versions' tab for HB2207 at index: 3
+2025-07-09T20:09:04.501Z [INFO]: Found PDF link for HB2207: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2207%20ENR.PDF
+2025-07-09T20:09:04.605Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2207.pdf
+2025-07-09T20:09:04.616Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2207
+2025-07-09T20:09:07.492Z [INFO]: Found 'Versions' tab for HB2082 at index: 3
+2025-07-09T20:09:07.493Z [INFO]: Found PDF link for HB2082: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2082%20ENR.PDF
+2025-07-09T20:09:07.609Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2082.pdf
+2025-07-09T20:09:07.619Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2082
+2025-07-09T20:09:07.619Z [INFO]: --- Processing batch 7 ---
+2025-07-09T20:09:09.949Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2286
+2025-07-09T20:09:12.318Z [INFO]: Found 'Versions' tab for HB2286 at index: 3
+2025-07-09T20:09:12.330Z [INFO]: Found PDF link for HB2286: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2286%20ENR.PDF
+2025-07-09T20:09:12.769Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2286.pdf
+2025-07-09T20:09:12.774Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2286
+2025-07-09T20:09:15.723Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2374
+2025-07-09T20:09:18.084Z [INFO]: Found 'Versions' tab for HB2374 at index: 3
+2025-07-09T20:09:18.085Z [INFO]: Found PDF link for HB2374: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2374%20ENR.PDF
+2025-07-09T20:09:18.444Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2374.pdf
+2025-07-09T20:09:18.454Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2374
+2025-07-09T20:09:20.141Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2259
+2025-07-09T20:09:23.309Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2287
+2025-07-09T20:09:26.606Z [INFO]: Found 'Versions' tab for HB2259 at index: 3
+2025-07-09T20:09:26.617Z [INFO]: Found PDF link for HB2259: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2259%20ENR.PDF
+2025-07-09T20:09:27.056Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2259.pdf
+2025-07-09T20:09:27.061Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2259
+2025-07-09T20:09:28.785Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2289
+2025-07-09T20:09:31.114Z [INFO]: Found 'Versions' tab for HB2289 at index: 3
+2025-07-09T20:09:31.114Z [INFO]: Found PDF link for HB2289: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2289%20ENR.PDF
+2025-07-09T20:09:31.452Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2289.pdf
+2025-07-09T20:09:31.464Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2289
+2025-07-09T20:09:32.766Z [INFO]: Found 'Versions' tab for HB2287 at index: 3
+2025-07-09T20:09:32.766Z [INFO]: Found PDF link for HB2287: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2287%20ENR.PDF
+2025-07-09T20:09:32.871Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2287.pdf
+2025-07-09T20:09:32.879Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2287
+2025-07-09T20:09:32.880Z [INFO]: --- Processing batch 8 ---
+2025-07-09T20:09:34.783Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2518
+2025-07-09T20:09:37.349Z [INFO]: Found 'Versions' tab for HB2518 at index: 3
+2025-07-09T20:09:37.353Z [INFO]: Found PDF link for HB2518: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2518%20ENR.PDF
+2025-07-09T20:09:37.703Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2518.pdf
+2025-07-09T20:09:37.712Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2518
+2025-07-09T20:09:40.455Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2758
+2025-07-09T20:09:42.580Z [INFO]: Found 'Versions' tab for HB2758 at index: 3
+2025-07-09T20:09:42.581Z [INFO]: Found PDF link for HB2758: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2758%20ENR.PDF
+2025-07-09T20:09:42.993Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2758.pdf
+2025-07-09T20:09:43.003Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2758
+2025-07-09T20:09:44.768Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2516
+2025-07-09T20:09:46.912Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2728
+2025-07-09T20:09:48.325Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2743
+2025-07-09T20:09:50.657Z [INFO]: Found 'Versions' tab for HB2516 at index: 3
+2025-07-09T20:09:50.665Z [INFO]: Found PDF link for HB2516: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2516%20ENR.PDF
+2025-07-09T20:09:51.002Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2516.pdf
+2025-07-09T20:09:51.007Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2516
+2025-07-09T20:09:52.475Z [INFO]: Found 'Versions' tab for HB2728 at index: 3
+2025-07-09T20:09:52.476Z [INFO]: Found PDF link for HB2728: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2728%20ENR.PDF
+2025-07-09T20:09:52.619Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2728.pdf
+2025-07-09T20:09:52.624Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2728
+2025-07-09T20:09:53.809Z [INFO]: Found 'Versions' tab for HB2743 at index: 3
+2025-07-09T20:09:53.810Z [INFO]: Found PDF link for HB2743: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2743%20ENR.PDF
+2025-07-09T20:09:53.911Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2743.pdf
+2025-07-09T20:09:53.923Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2743
+2025-07-09T20:09:53.923Z [INFO]: --- Processing batch 9 ---
+2025-07-09T20:09:55.682Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2779
+2025-07-09T20:09:58.629Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2771
+2025-07-09T20:10:01.414Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2770
+2025-07-09T20:10:03.060Z [INFO]: Found 'Versions' tab for HB2779 at index: 3
+2025-07-09T20:10:03.062Z [INFO]: Found PDF link for HB2779: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2779%20ENR.PDF
+2025-07-09T20:10:03.404Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2779.pdf
+2025-07-09T20:10:03.413Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2779
+2025-07-09T20:10:07.392Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2772
+2025-07-09T20:10:11.361Z [INFO]: Found 'Versions' tab for HB2772 at index: 3
+2025-07-09T20:10:11.366Z [INFO]: Found PDF link for HB2772: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2772%20ENR.PDF
+2025-07-09T20:10:11.730Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2772.pdf
+2025-07-09T20:10:11.734Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2772
+2025-07-09T20:10:13.252Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2777
+2025-07-09T20:10:15.120Z [INFO]: Found 'Versions' tab for HB2770 at index: 3
+2025-07-09T20:10:15.124Z [INFO]: Found PDF link for HB2770: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2770%20ENR.PDF
+2025-07-09T20:10:15.180Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2770.pdf
+2025-07-09T20:10:15.184Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2770
+2025-07-09T20:10:17.476Z [INFO]: Found 'Versions' tab for HB2777 at index: 3
+2025-07-09T20:10:17.476Z [INFO]: Found PDF link for HB2777: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2777%20ENR.PDF
+2025-07-09T20:10:17.541Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2777.pdf
+2025-07-09T20:10:17.551Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2777
+2025-07-09T20:10:19.250Z [INFO]: Found 'Versions' tab for HB2771 at index: 3
+2025-07-09T20:10:19.251Z [INFO]: Found PDF link for HB2771: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2771%20ENR.PDF
+2025-07-09T20:10:19.333Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2771.pdf
+2025-07-09T20:10:19.341Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2771
+2025-07-09T20:10:19.341Z [INFO]: --- Processing batch 10 ---
+2025-07-09T20:10:21.314Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2788
+2025-07-09T20:10:23.894Z [INFO]: Found 'Versions' tab for HB2788 at index: 3
+2025-07-09T20:10:23.895Z [INFO]: Found PDF link for HB2788: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2788%20ENR.PDF
+2025-07-09T20:10:24.215Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2788.pdf
+2025-07-09T20:10:24.219Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2788
+2025-07-09T20:10:27.109Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2789
+2025-07-09T20:10:29.006Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2903
+2025-07-09T20:10:30.751Z [INFO]: Found 'Versions' tab for HB2903 at index: 3
+2025-07-09T20:10:30.753Z [INFO]: Found PDF link for HB2903: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2903%20ENR.PDF
+2025-07-09T20:10:31.108Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2903.pdf
+2025-07-09T20:10:31.120Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2903
+2025-07-09T20:10:32.443Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2790
+2025-07-09T20:10:34.394Z [INFO]: Found 'Versions' tab for HB2790 at index: 3
+2025-07-09T20:10:34.399Z [INFO]: Found PDF link for HB2790: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2790%20ENR.PDF
+2025-07-09T20:10:34.809Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2790.pdf
+2025-07-09T20:10:34.814Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2790
+2025-07-09T20:10:35.929Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2793
+2025-07-09T20:10:37.809Z [INFO]: Found 'Versions' tab for HB2789 at index: 3
+2025-07-09T20:10:37.813Z [INFO]: Found PDF link for HB2789: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2789%20ENR.PDF
+2025-07-09T20:10:37.926Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2789.pdf
+2025-07-09T20:10:37.931Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2789
+2025-07-09T20:10:39.937Z [INFO]: Found 'Versions' tab for HB2793 at index: 3
+2025-07-09T20:10:39.938Z [INFO]: Found PDF link for HB2793: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2793%20ENR.PDF
+2025-07-09T20:10:40.050Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\HB2793.pdf
+2025-07-09T20:10:40.074Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=HB2793
+2025-07-09T20:10:40.074Z [INFO]: --- Processing batch 11 ---
+2025-07-09T20:10:42.300Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1129
+2025-07-09T20:10:44.911Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB102
+2025-07-09T20:10:47.664Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1024
+2025-07-09T20:10:49.884Z [INFO]: Found 'Versions' tab for SB1024 at index: 3
+2025-07-09T20:10:49.887Z [INFO]: Found PDF link for SB1024: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1024%20ENR.PDF
+2025-07-09T20:10:50.338Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1024.pdf
+2025-07-09T20:10:50.344Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1024
+2025-07-09T20:10:52.144Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB105
+2025-07-09T20:10:53.821Z [INFO]: Found 'Versions' tab for SB105 at index: 3
+2025-07-09T20:10:53.822Z [INFO]: Found PDF link for SB105: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB105%20ENR.PDF
+2025-07-09T20:10:53.932Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB105.pdf
+2025-07-09T20:10:53.937Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB105
+2025-07-09T20:10:55.879Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1126
+2025-07-09T20:10:57.459Z [INFO]: Found 'Versions' tab for SB1126 at index: 3
+2025-07-09T20:10:57.460Z [INFO]: Found PDF link for SB1126: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1126%20ENR.PDF
+2025-07-09T20:10:57.560Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1126.pdf
+2025-07-09T20:10:57.567Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1126
+2025-07-09T20:10:59.578Z [INFO]: Found 'Versions' tab for SB1129 at index: 3
+2025-07-09T20:10:59.578Z [INFO]: Found PDF link for SB1129: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1129%20ENR.PDF
+2025-07-09T20:10:59.693Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1129.pdf
+2025-07-09T20:10:59.702Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1129
+2025-07-09T20:11:01.599Z [INFO]: Found 'Versions' tab for SB102 at index: 3
+2025-07-09T20:11:01.600Z [WARN]: Could not find 'Enrolled (final version)' link for SB102. Skipping.
+2025-07-09T20:11:01.607Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB102
+2025-07-09T20:11:01.607Z [INFO]: --- Processing batch 12 ---
+2025-07-09T20:11:03.814Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1150
+2025-07-09T20:11:06.667Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1140
+2025-07-09T20:11:09.854Z [INFO]: Found 'Versions' tab for SB1140 at index: 3
+2025-07-09T20:11:09.855Z [INFO]: Found PDF link for SB1140: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1140%20ENR.PDF
+2025-07-09T20:11:10.258Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1140.pdf
+2025-07-09T20:11:10.262Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1140
+2025-07-09T20:11:12.280Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1137
+2025-07-09T20:11:14.940Z [INFO]: Found 'Versions' tab for SB1137 at index: 3
+2025-07-09T20:11:14.956Z [INFO]: Found PDF link for SB1137: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1137%20ENR.PDF
+2025-07-09T20:11:15.278Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1137.pdf
+2025-07-09T20:11:15.284Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1137
+2025-07-09T20:11:18.457Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1141
+2025-07-09T20:11:20.300Z [INFO]: Found 'Versions' tab for SB1141 at index: 3
+2025-07-09T20:11:20.302Z [INFO]: Found PDF link for SB1141: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1141%20ENR.PDF
+2025-07-09T20:11:20.613Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1141.pdf
+2025-07-09T20:11:20.619Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1141
+2025-07-09T20:11:23.289Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1143
+2025-07-09T20:11:25.548Z [INFO]: Found 'Versions' tab for SB1150 at index: 3
+2025-07-09T20:11:25.549Z [INFO]: Found PDF link for SB1150: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1150%20ENR.PDF
+2025-07-09T20:11:25.913Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1150.pdf
+2025-07-09T20:11:25.922Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1150
+2025-07-09T20:11:27.306Z [INFO]: Found 'Versions' tab for SB1143 at index: 3
+2025-07-09T20:11:27.307Z [INFO]: Found PDF link for SB1143: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1143%20ENR.PDF
+2025-07-09T20:11:27.383Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1143.pdf
+2025-07-09T20:11:27.394Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1143
+2025-07-09T20:11:27.395Z [INFO]: --- Processing batch 13 ---
+2025-07-09T20:11:29.149Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1169
+2025-07-09T20:11:30.414Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1152
+2025-07-09T20:11:32.742Z [INFO]: Found 'Versions' tab for SB1152 at index: 3
+2025-07-09T20:11:32.743Z [INFO]: Found PDF link for SB1152: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1152%20ENR.PDF
+2025-07-09T20:11:33.116Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1152.pdf
+2025-07-09T20:11:33.121Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1152
+2025-07-09T20:11:34.640Z [INFO]: Found 'Versions' tab for SB1169 at index: 3
+2025-07-09T20:11:34.640Z [INFO]: Found PDF link for SB1169: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1169%20ENR.PDF
+2025-07-09T20:11:34.799Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1169.pdf
+2025-07-09T20:11:34.811Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1169
+2025-07-09T20:11:38.011Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1151
+2025-07-09T20:11:40.160Z [INFO]: Found 'Versions' tab for SB1151 at index: 3
+2025-07-09T20:11:40.162Z [INFO]: Found PDF link for SB1151: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1151%20ENR.PDF
+2025-07-09T20:11:40.522Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1151.pdf
+2025-07-09T20:11:40.528Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1151
+2025-07-09T20:11:41.556Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1153
+2025-07-09T20:11:42.427Z [INFO]: Found 'Versions' tab for SB1153 at index: 3
+2025-07-09T20:11:42.429Z [INFO]: Found PDF link for SB1153: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1153%20ENR.PDF
+2025-07-09T20:11:42.537Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1153.pdf
+2025-07-09T20:11:42.542Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1153
+2025-07-09T20:11:45.379Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1155
+2025-07-09T20:11:46.555Z [INFO]: Found 'Versions' tab for SB1155 at index: 3
+2025-07-09T20:11:46.556Z [INFO]: Found PDF link for SB1155: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1155%20ENR.PDF
+2025-07-09T20:11:49.927Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1155.pdf
+2025-07-09T20:11:49.940Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1155
+2025-07-09T20:11:49.941Z [INFO]: --- Processing batch 14 ---
+2025-07-09T20:11:50.987Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1180
+2025-07-09T20:11:52.718Z [INFO]: Found 'Versions' tab for SB1180 at index: 3
+2025-07-09T20:11:52.724Z [INFO]: Found PDF link for SB1180: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB1180%20ENR.PDF
+2025-07-09T20:11:52.839Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB1180.pdf
+2025-07-09T20:11:52.844Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB1180
+2025-07-09T20:11:55.249Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB135
+2025-07-09T20:11:57.000Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB31
+2025-07-09T20:11:58.400Z [INFO]: Found 'Versions' tab for SB31 at index: 3
+2025-07-09T20:11:58.400Z [INFO]: Found PDF link for SB31: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB31%20ENR.PDF
+2025-07-09T20:11:58.751Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB31.pdf
+2025-07-09T20:11:58.766Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB31
+2025-07-09T20:12:00.244Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB190
+2025-07-09T20:12:00.909Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB251
+2025-07-09T20:12:02.426Z [INFO]: Found 'Versions' tab for SB190 at index: 3
+2025-07-09T20:12:02.428Z [INFO]: Found PDF link for SB190: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB190%20ENR.PDF
+2025-07-09T20:12:02.521Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB190.pdf
+2025-07-09T20:12:02.528Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB190
+2025-07-09T20:12:03.191Z [INFO]: Found 'Versions' tab for SB135 at index: 3
+2025-07-09T20:12:03.193Z [INFO]: Found PDF link for SB135: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB135%20ENR.PDF
+2025-07-09T20:12:03.304Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB135.pdf
+2025-07-09T20:12:03.311Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB135
+2025-07-09T20:12:04.225Z [INFO]: Found 'Versions' tab for SB251 at index: 3
+2025-07-09T20:12:04.227Z [INFO]: Found PDF link for SB251: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB251%20ENR.PDF
+2025-07-09T20:12:04.303Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB251.pdf
+2025-07-09T20:12:04.317Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB251
+2025-07-09T20:12:04.317Z [INFO]: --- Processing batch 15 ---
+2025-07-09T20:12:05.696Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB394
+2025-07-09T20:12:07.405Z [INFO]: Found 'Versions' tab for SB394 at index: 3
+2025-07-09T20:12:07.406Z [INFO]: Found PDF link for SB394: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB394%20ENR.PDF
+2025-07-09T20:12:07.462Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB394.pdf
+2025-07-09T20:12:07.471Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB394
+2025-07-09T20:12:09.379Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB341
+2025-07-09T20:12:13.072Z [INFO]: Found 'Versions' tab for SB341 at index: 3
+2025-07-09T20:12:13.074Z [INFO]: Found PDF link for SB341: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB341%20ENR.PDF
+2025-07-09T20:12:13.421Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB341.pdf
+2025-07-09T20:12:13.426Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB341
+2025-07-09T20:12:15.539Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB335
+2025-07-09T20:12:17.779Z [INFO]: Found 'Versions' tab for SB335 at index: 3
+2025-07-09T20:12:17.782Z [INFO]: Found PDF link for SB335: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB335%20ENR.PDF
+2025-07-09T20:12:18.125Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB335.pdf
+2025-07-09T20:12:18.129Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB335
+2025-07-09T20:12:19.635Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB391
+2025-07-09T20:12:22.833Z [INFO]: Found 'Versions' tab for SB391 at index: 3
+2025-07-09T20:12:22.835Z [INFO]: Found PDF link for SB391: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB391%20ENR.PDF
+2025-07-09T20:12:23.147Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB391.pdf
+2025-07-09T20:12:23.151Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB391
+2025-07-09T20:12:26.310Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB393
+2025-07-09T20:12:29.904Z [INFO]: Found 'Versions' tab for SB393 at index: 3
+2025-07-09T20:12:29.906Z [INFO]: Found PDF link for SB393: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB393%20ENR.PDF
+2025-07-09T20:12:30.212Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB393.pdf
+2025-07-09T20:12:30.224Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB393
+2025-07-09T20:12:30.230Z [INFO]: --- Processing batch 16 ---
+2025-07-09T20:12:32.213Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB460
+2025-07-09T20:12:33.635Z [INFO]: Found 'Versions' tab for SB460 at index: 3
+2025-07-09T20:12:33.636Z [INFO]: Found PDF link for SB460: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB460%20ENR.PDF
+2025-07-09T20:12:33.745Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB460.pdf
+2025-07-09T20:12:33.753Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB460
+2025-07-09T20:12:35.510Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB396
+2025-07-09T20:12:37.050Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB395
+2025-07-09T20:12:38.453Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB434
+2025-07-09T20:12:41.186Z [INFO]: Found 'Versions' tab for SB434 at index: 3
+2025-07-09T20:12:41.188Z [INFO]: Found PDF link for SB434: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB434%20ENR.PDF
+2025-07-09T20:12:41.556Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB434.pdf
+2025-07-09T20:12:41.560Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB434
+2025-07-09T20:12:43.222Z [INFO]: Found 'Versions' tab for SB395 at index: 3
+2025-07-09T20:12:43.227Z [INFO]: Found PDF link for SB395: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB395%20ENR.PDF
+2025-07-09T20:12:43.284Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB395.pdf
+2025-07-09T20:12:43.288Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB395
+2025-07-09T20:12:44.230Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB443
+2025-07-09T20:12:45.653Z [INFO]: Found 'Versions' tab for SB396 at index: 3
+2025-07-09T20:12:45.657Z [INFO]: Found PDF link for SB396: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB396%20ENR.PDF
+2025-07-09T20:12:45.714Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB396.pdf
+2025-07-09T20:12:45.720Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB396
+2025-07-09T20:12:47.303Z [INFO]: Found 'Versions' tab for SB443 at index: 3
+2025-07-09T20:12:47.304Z [INFO]: Found PDF link for SB443: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB443%20ENR.PDF
+2025-07-09T20:12:47.421Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB443.pdf
+2025-07-09T20:12:47.431Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB443
+2025-07-09T20:12:47.431Z [INFO]: --- Processing batch 17 ---
+2025-07-09T20:12:49.003Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB469
+2025-07-09T20:12:50.079Z [INFO]: Found 'Versions' tab for SB469 at index: 3
+2025-07-09T20:12:50.084Z [INFO]: Found PDF link for SB469: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB469%20ENR.PDF
+2025-07-09T20:12:50.175Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB469.pdf
+2025-07-09T20:12:50.180Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB469
+2025-07-09T20:12:51.179Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB56
+2025-07-09T20:12:53.803Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB480
+2025-07-09T20:12:55.780Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB527
+2025-07-09T20:12:57.101Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB553
+2025-07-09T20:12:58.368Z [INFO]: Found 'Versions' tab for SB553 at index: 3
+2025-07-09T20:12:58.369Z [INFO]: Found PDF link for SB553: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB553%20ENR.PDF
+2025-07-09T20:12:58.781Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB553.pdf
+2025-07-09T20:12:58.787Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB553
+2025-07-09T20:13:00.344Z [INFO]: Found 'Versions' tab for SB56 at index: 3
+2025-07-09T20:13:00.344Z [INFO]: Found PDF link for SB56: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB56%20ENR.PDF
+2025-07-09T20:13:00.406Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB56.pdf
+2025-07-09T20:13:00.416Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB56
+2025-07-09T20:13:01.730Z [INFO]: Found 'Versions' tab for SB527 at index: 3
+2025-07-09T20:13:01.731Z [INFO]: Found PDF link for SB527: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB527%20ENR.PDF
+2025-07-09T20:13:01.833Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB527.pdf
+2025-07-09T20:13:01.842Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB527
+2025-07-09T20:13:03.486Z [INFO]: Found 'Versions' tab for SB480 at index: 3
+2025-07-09T20:13:03.488Z [INFO]: Found PDF link for SB480: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB480%20ENR.PDF
+2025-07-09T20:13:03.609Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB480.pdf
+2025-07-09T20:13:03.618Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB480
+2025-07-09T20:13:03.618Z [INFO]: --- Processing batch 18 ---
+2025-07-09T20:13:04.980Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB752
+2025-07-09T20:13:06.962Z [INFO]: Found 'Versions' tab for SB752 at index: 3
+2025-07-09T20:13:06.963Z [INFO]: Found PDF link for SB752: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB752%20ENR.PDF
+2025-07-09T20:13:07.060Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB752.pdf
+2025-07-09T20:13:07.071Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB752
+2025-07-09T20:13:08.380Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB672
+2025-07-09T20:13:09.672Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB676
+2025-07-09T20:13:11.997Z [INFO]: Found 'Versions' tab for SB676 at index: 3
+2025-07-09T20:13:11.999Z [INFO]: Found PDF link for SB676: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB676%20ENR.PDF
+2025-07-09T20:13:12.356Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB676.pdf
+2025-07-09T20:13:12.362Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB676
+2025-07-09T20:13:14.070Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB711
+2025-07-09T20:13:16.069Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB745
+2025-07-09T20:13:17.381Z [INFO]: Found 'Versions' tab for SB672 at index: 3
+2025-07-09T20:13:17.382Z [INFO]: Found PDF link for SB672: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB672%20ENR.PDF
+2025-07-09T20:13:17.746Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB672.pdf
+2025-07-09T20:13:17.757Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB672
+2025-07-09T20:13:18.895Z [INFO]: Found 'Versions' tab for SB711 at index: 3
+2025-07-09T20:13:18.902Z [INFO]: Found PDF link for SB711: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB711%20ENR.PDF
+2025-07-09T20:13:19.062Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB711.pdf
+2025-07-09T20:13:19.067Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB711
+2025-07-09T20:13:20.239Z [INFO]: Found 'Versions' tab for SB745 at index: 3
+2025-07-09T20:13:20.240Z [INFO]: Found PDF link for SB745: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB745%20ENR.PDF
+2025-07-09T20:13:20.316Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB745.pdf
+2025-07-09T20:13:20.327Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB745
+2025-07-09T20:13:20.327Z [INFO]: --- Processing batch 19 ---
+2025-07-09T20:13:21.705Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB814
+2025-07-09T20:13:22.713Z [INFO]: Found 'Versions' tab for SB814 at index: 3
+2025-07-09T20:13:22.714Z [INFO]: Found PDF link for SB814: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB814%20ENR.PDF
+2025-07-09T20:13:22.825Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB814.pdf
+2025-07-09T20:13:22.837Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB814
+2025-07-09T20:13:24.004Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB794
+2025-07-09T20:13:25.275Z [INFO]: Found 'Versions' tab for SB794 at index: 3
+2025-07-09T20:13:25.288Z [INFO]: Found PDF link for SB794: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB794%20ENR.PDF
+2025-07-09T20:13:25.390Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB794.pdf
+2025-07-09T20:13:25.395Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB794
+2025-07-09T20:13:26.841Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB796
+2025-07-09T20:13:28.409Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB806
+2025-07-09T20:13:31.185Z [INFO]: Found 'Versions' tab for SB796 at index: 3
+2025-07-09T20:13:31.187Z [INFO]: Found PDF link for SB796: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB796%20ENR.PDF
+2025-07-09T20:13:31.542Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB796.pdf
+2025-07-09T20:13:31.550Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB796
+2025-07-09T20:13:33.316Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB813
+2025-07-09T20:13:34.575Z [INFO]: Found 'Versions' tab for SB813 at index: 3
+2025-07-09T20:13:34.575Z [INFO]: Found PDF link for SB813: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB813%20ENR.PDF
+2025-07-09T20:13:34.690Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB813.pdf
+2025-07-09T20:13:34.699Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB813
+2025-07-09T20:13:35.773Z [INFO]: Found 'Versions' tab for SB806 at index: 3
+2025-07-09T20:13:35.774Z [INFO]: Found PDF link for SB806: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB806%20ENR.PDF
+2025-07-09T20:13:35.876Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB806.pdf
+2025-07-09T20:13:35.887Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB806
+2025-07-09T20:13:35.887Z [INFO]: --- Processing batch 20 ---
+2025-07-09T20:13:37.873Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB940
+2025-07-09T20:13:40.314Z [INFO]: Found 'Versions' tab for SB940 at index: 3
+2025-07-09T20:13:40.314Z [INFO]: Found PDF link for SB940: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB940%20ENR.PDF
+2025-07-09T20:13:40.651Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB940.pdf
+2025-07-09T20:13:40.663Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB940
+2025-07-09T20:13:41.950Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB841
+2025-07-09T20:13:44.353Z [INFO]: Found 'Versions' tab for SB841 at index: 3
+2025-07-09T20:13:44.355Z [INFO]: Found PDF link for SB841: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB841%20ENR.PDF
+2025-07-09T20:13:44.468Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB841.pdf
+2025-07-09T20:13:44.473Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB841
+2025-07-09T20:13:45.968Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB840
+2025-07-09T20:13:46.821Z [INFO]: Navigating to: https://www.oklegislature.gov/BillInfo.aspx?Bill=SB912
+2025-07-09T20:13:48.192Z [INFO]: Found 'Versions' tab for SB912 at index: 3
+2025-07-09T20:13:48.193Z [INFO]: Found PDF link for SB912: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB912%20ENR.PDF
+2025-07-09T20:13:48.601Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB912.pdf
+2025-07-09T20:13:48.611Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB912
+2025-07-09T20:13:51.292Z [INFO]: Found 'Versions' tab for SB840 at index: 3
+2025-07-09T20:13:51.292Z [INFO]: Found PDF link for SB840: https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB840%20ENR.PDF
+2025-07-09T20:13:51.350Z [INFO]: ✅ Successfully downloaded and saved to: D:\Code\oklaws\downloads\SB840.pdf
+2025-07-09T20:13:51.360Z [INFO]:    Page closed for https://www.oklegislature.gov/BillInfo.aspx?Bill=SB840
+2025-07-09T20:13:51.514Z [INFO]: 
+✅ Scraper finished.
+2025-07-09T20:14:14.972Z [INFO]: Starting PDF cleaning process...
+2025-07-09T20:14:14.975Z [INFO]: Found 98 PDF(s) to clean.
+2025-07-09T20:14:15.296Z [INFO]: Removed last page from HB1287.pdf
+2025-07-09T20:14:15.297Z [INFO]: Removed last page from HB1360.pdf
+2025-07-09T20:14:15.297Z [INFO]: Removed last page from HB1075.pdf
+2025-07-09T20:14:15.298Z [INFO]: Removed last page from HB1483.pdf
+2025-07-09T20:14:15.298Z [INFO]: Removed last page from HB1372.pdf
+2025-07-09T20:14:15.298Z [INFO]: Removed last page from HB1376.pdf
+2025-07-09T20:14:15.298Z [INFO]: Removed last page from HB1412.pdf
+2025-07-09T20:14:15.298Z [INFO]: Removed last page from HB1282.pdf
+2025-07-09T20:14:15.306Z [INFO]: Removed last page from HB2777.pdf
+2025-07-09T20:14:15.307Z [INFO]: Removed last page from HB1393.pdf
+2025-07-09T20:14:15.307Z [INFO]: Removed last page from HB2082.pdf
+2025-07-09T20:14:15.307Z [INFO]: Removed last page from HB2779.pdf
+2025-07-09T20:14:15.307Z [INFO]: Removed last page from HB2903.pdf
+2025-07-09T20:14:15.307Z [INFO]: Removed last page from HB2793.pdf
+2025-07-09T20:14:15.308Z [INFO]: Removed last page from SB1143.pdf
+2025-07-09T20:14:15.308Z [INFO]: Removed last page from SB1141.pdf
+2025-07-09T20:14:15.308Z [INFO]: Removed last page from HB1465.pdf
+2025-07-09T20:14:15.308Z [INFO]: Removed last page from SB1129.pdf
+2025-07-09T20:14:15.308Z [INFO]: Removed last page from SB1151.pdf
+2025-07-09T20:14:15.308Z [INFO]: Removed last page from SB1153.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from SB394.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from SB1155.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from SB335.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from SB395.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from SB745.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from HB1466.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from HB1576.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from HB1940.pdf
+2025-07-09T20:14:15.309Z [INFO]: Removed last page from HB1086.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB1732.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB1865.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB1277.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2287.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2286.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2257.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2770.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2743.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB1278.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2788.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2772.pdf
+2025-07-09T20:14:15.310Z [INFO]: Removed last page from HB2771.pdf
+2025-07-09T20:14:15.311Z [INFO]: Removed last page from SB1150.pdf
+2025-07-09T20:14:15.311Z [INFO]: Removed last page from HB2790.pdf
+2025-07-09T20:14:15.311Z [INFO]: Removed last page from SB1140.pdf
+2025-07-09T20:14:15.311Z [INFO]: Removed last page from SB1152.pdf
+2025-07-09T20:14:15.311Z [INFO]: Removed last page from SB31.pdf
+2025-07-09T20:14:15.311Z [INFO]: Removed last page from SB341.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB391.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB190.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB393.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB396.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB434.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB480.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB527.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB56.pdf
+2025-07-09T20:14:15.312Z [INFO]: Removed last page from SB672.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB469.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB711.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB752.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB135.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB794.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB1180.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB251.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB806.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB840.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from SB814.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from HB1087.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from HB1096.pdf
+2025-07-09T20:14:15.313Z [INFO]: Removed last page from HB1485.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from HB2259.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from HB1512.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from HB2289.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from HB2516.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from HB2374.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from HB2789.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from SB105.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from SB1024.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from SB1169.pdf
+2025-07-09T20:14:15.314Z [INFO]: Removed last page from SB460.pdf
+2025-07-09T20:14:15.315Z [INFO]: Removed last page from SB1126.pdf
+2025-07-09T20:14:15.326Z [INFO]: Removed last page from SB796.pdf
+2025-07-09T20:14:15.326Z [INFO]: Removed last page from SB813.pdf
+2025-07-09T20:14:15.327Z [INFO]: Removed last page from HB1727.pdf
+2025-07-09T20:14:15.327Z [INFO]: Removed last page from HB2758.pdf
+2025-07-09T20:14:15.327Z [INFO]: Removed last page from SB443.pdf
+2025-07-09T20:14:15.327Z [INFO]: Removed last page from SB1137.pdf
+2025-07-09T20:14:15.327Z [INFO]: Removed last page from HB1688.pdf
+2025-07-09T20:14:15.328Z [INFO]: Removed last page from HB2207.pdf
+2025-07-09T20:14:15.328Z [INFO]: Removed last page from HB2518.pdf
+2025-07-09T20:14:15.328Z [INFO]: Removed last page from SB553.pdf
+2025-07-09T20:14:15.328Z [INFO]: Removed last page from SB676.pdf
+2025-07-09T20:14:15.329Z [INFO]: Removed last page from SB940.pdf
+2025-07-09T20:14:15.329Z [INFO]: Removed last page from SB841.pdf
+2025-07-09T20:14:15.329Z [INFO]: Removed last page from HB1521.pdf
+2025-07-09T20:14:15.330Z [INFO]: Removed last page from SB912.pdf
+2025-07-09T20:14:15.330Z [INFO]: Removed last page from HB2728.pdf
+2025-07-09T20:14:15.330Z [INFO]: Removed last page from HB2158.pdf
+2025-07-09T20:14:15.451Z [INFO]: Removed last page from HB1751.pdf
+2025-07-09T20:14:15.451Z [INFO]: ✅ PDF cleaning process finished.
