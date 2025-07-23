@@ -610,3 +610,11 @@
 2025-07-09T20:14:15.330Z [INFO]: Removed last page from HB2158.pdf
 2025-07-09T20:14:15.451Z [INFO]: Removed last page from HB1751.pdf
 2025-07-09T20:14:15.451Z [INFO]: ✅ PDF cleaning process finished.
+2025-07-23T18:30:16.676Z [INFO]: Starting wiki URL scraper...
+2025-07-23T18:30:17.532Z [INFO]: Navigating to: https://sunberryvillage.wiki.gg/wiki/Special:AllPages
+2025-07-23T18:30:19.499Z [INFO]: Extracting URLs from the page...
+2025-07-23T18:30:19.502Z [INFO]: Extracted 298 unique URLs.
+2025-07-23T18:30:19.502Z [INFO]: Found 298 URLs on the page.
+2025-07-23T18:30:19.503Z [INFO]: Saving URLs to wiki_urls.txt...
+2025-07-23T18:30:19.506Z [INFO]: Successfully wrote 298 URLs to wiki_urls.txt
+2025-07-23T18:30:19.506Z [INFO]: ✅ Successfully saved 298 URLs to wiki_urls.txt
